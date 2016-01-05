@@ -1,0 +1,22 @@
+{
+  "name": "rowgrid.js",
+  "version": "1.0.4",
+  "description": "NPM package for rowGrid.js",
+  "main": "jquery.row-grid.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinwoodcock/rowGrid.js.git"
+  },
+  "author": "Bruno Joseph",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justinwoodcock/rowGrid.js/issues"
+  },
+  "homepage": "https://github.com/justinwoodcock/rowGrid.js#readme"
+}
